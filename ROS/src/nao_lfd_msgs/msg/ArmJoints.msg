@@ -1,0 +1,8 @@
+float64 left_shoulder_pitch
+float64 left_shoulder_roll
+float64 left_elbow_yaw
+float64 left_elbow_roll
+float64 right_shoulder_pitch
+float64 right_shoulder_roll
+float64 right_elbow_yaw
+float64 right_elbow_roll

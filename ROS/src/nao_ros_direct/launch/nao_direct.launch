@@ -1,0 +1,10 @@
+<launch>
+  <node pkg="nao_ros_direct" type="nao_direct_node.py" name="nao_direct" output="screen">
+    <param name="nao_ip" value="192.168.101.146" />
+    <param name="nao_port" value="9559" />
+    <param name="move_speed" value="0.05" />
+    <param name="joint_state_rate" value="10.0" />
+    <param name="set_stiffness_on_start" value="false" />
+    <param name="home_on_start" value="false" />
+  </node>
+</launch>

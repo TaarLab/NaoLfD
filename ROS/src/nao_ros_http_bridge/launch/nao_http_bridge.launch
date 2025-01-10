@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="nao_ros_http_bridge" type="nao_http_bridge_node.py" name="nao_http_bridge" output="screen">
+    <param name="nao_http_url" value="http://127.0.0.1:5001" />
+    <param name="http_timeout" value="5.0" />
+    <param name="joint_state_rate" value="10.0" />
+  </node>
+</launch>

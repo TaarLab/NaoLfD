@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>nao_ros_direct</name>
+  <version>0.1.0</version>
+  <description>ROS1 NAO node that talks to ALMotion via ALProxy directly.</description>
+  <maintainer email="nao@lfd.local">NaoLfD</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>nao_lfd_msgs</exec_depend>
+
+  <export/>
+</package>

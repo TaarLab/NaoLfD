@@ -1,0 +1,4 @@
+nao_lfd_msgs/ArmJoints joints
+---
+bool success
+string message
