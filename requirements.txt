@@ -1,0 +1,19 @@
+# Core dependencies
+numpy==1.26.2
+pandas==2.1.4
+matplotlib==3.8.2
+torch==2.1.1
+keras==3.3.3
+flask==3.0.3
+opencv-python-headless==4.8.1.78
+scipy==1.11.4
+
+# Additional utilities
+ultralytics==8.2.6
+wandb==0.16.6
+
+# CoppeliaSim-specific API
+coppeliasim-zmqremoteapi-client==2.0.4
+
+# JSON parsing and HTTP client
+requests==2.32.3
