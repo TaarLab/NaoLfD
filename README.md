@@ -1,4 +1,4 @@
-# **NAO Humanoid Robot Learning Manipulation From Few-Shot Demonstrations**
+# **NAO Humanoid Robot Learning Manipulation From a Few Demonstrations**
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
 [![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-4.5-brightgreen)](https://www.coppeliarobotics.com/)
